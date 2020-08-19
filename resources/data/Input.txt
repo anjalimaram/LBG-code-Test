@@ -1,0 +1,8 @@
+Company Code	Account	City	Country	Credit Rating	Currency	Amount	
+
+1	123	Atlanta	USA	AAA+	CHF	65484231.44	
+2	124	Bristol	UK	A	GBP	312139226.6	
+3	125	Dublin	IRL	Aa	CHF	572106536.9	
+4	126	Sligo	IRL	Aa	GBP	607295781.3	
+5	127	Oslo	NOR	A	GBP	885799082.5	
+
